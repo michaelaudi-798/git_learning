@@ -1,3 +1,6 @@
+/*comments 
+ *this is used for output hello wolrd in console
+ */
 #include<iostream>
 int main()
 {
